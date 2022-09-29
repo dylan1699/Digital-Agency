@@ -24,7 +24,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![] (https://github.com/dylan1699/Digital-Agency/blob/main/ezgif.com-gif-maker.gif)
 
 
 
